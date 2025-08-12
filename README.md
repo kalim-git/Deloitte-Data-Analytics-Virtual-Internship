@@ -22,3 +22,15 @@ Throughout the internship, I completed multiple tasks that involved data analysi
 - Analytical thinking to support decision-making
 - Dashboard design and user-interactive visuals
 - Business insight generation from raw datasets
+
+## Key Learnings
+
+Through this virtual internship, I gained valuable experience in:
+- Data visualization: Creating insightful dashboards using Tableau to drive data-driven decisions.
+- Data classification and automation: Using Excel formulas to efficiently categorize data.
+- Analytical problem-solving: Identifying patterns and key insights from complex datasets.
+- Interpreting business problems: Translating raw data into meaningful recommendations for stakeholders.
+
+## Conclusion
+
+The Forage Deloitte Australia Virtual Internship provided an opportunity to work on practical data analytics problems faced by businesses. Through tasks involving Tableau and Excel, I enhanced my ability to analyze, visualize, and interpret data effectively. These skills are crucial for roles in data science, business intelligence, and analytics.
