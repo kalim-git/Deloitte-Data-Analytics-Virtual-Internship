@@ -7,6 +7,7 @@ Throughout the internship, I completed multiple tasks that involved data analysi
 ##  Completed Tasks
 **Task 1: Telemetry Data Analysis**
 Used Tableau to analyze machine downtime across factories using JSON telemetry data. Created interactive dashboards to identify the most error-prone factory and machine type.
+
 **Task 2: Forensic Analysis – Gender Pay Equality**
 Analyzed compensation equality scores across job roles and factories using Excel. Classified fairness levels to support internal equity investigations.
 
