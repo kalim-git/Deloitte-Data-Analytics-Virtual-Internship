@@ -40,13 +40,13 @@ Analyze telemetry data collected from four Daikibo factory locations for the mon
 
 ## Insights
 
-1.**Factory-Level Downtime**
+1. **Factory-Level Downtime**
 - **`Daikibo-Factory-Seiko`** experienced the highest downtime with 480 unhealthy units, indicating significant production issues.
 - **`Daikibo-Shenzhen`** followed with 420 units, showing potential maintenance gaps.
 - **`Daikibo-Factory-Meiyo`** showed moderate downtime at 110 units.
 - **`Daikibo-Berlin`** had the least downtime (20 units), suggesting strong equipment health and operational efficiency.
 
-2.**Device-Level Downtime**
+2. **Device-Level Downtime**
 - Laser Welder had the highest downtime among all devices (480 units), followed closely by the Laser Cutter (430 units).
 - Other devices such as Heavy Duty Drill (70 units) and Furnace (20 units) contributed moderately.
 - Devices like Metal Press and Air Wrench reported zero downtime, highlighting their reliability.
