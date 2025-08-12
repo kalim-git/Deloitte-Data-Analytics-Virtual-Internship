@@ -21,7 +21,7 @@ Objective is to Generate a new column **Equality Class** based on the values in 
   - `Job Role`
   - `Equality Score`
 
--<a href="https://github.com/kalim-git/Deloitte-Data-Analytics-Virtual-Internship/blob/main/Task%20II/Task%205%20Equality%20Table.xlsx">Used Dataset<a/>
+- <a href="https://github.com/kalim-git/Deloitte-Data-Analytics-Virtual-Internship/blob/main/Task%20II/Task%205%20Equality%20Table.xlsx">Used Dataset<a/>
 
 2. Created a new column, **"Equality Class"** based on the following rules:
 
@@ -33,5 +33,4 @@ Objective is to Generate a new column **Equality Class** based on the values in 
 
    `=IF(ABS(C2) <= 10, "Fair", IF(ABS(C2) <= 20, "Unfair", "Highly Discriminative"))`
 
-4. Saved and submitted the updated file named **`Equality Table Updated.xlsx`** with the classification applied to all job roles.
--<a href="https://github.com/kalim-git/Deloitte-Data-Analytics-Virtual-Internship/blob/main/Task%20II/Task%205%20Equality%20Table%20-%20Updated.xlsx">Updated Dataset<a/>
+4. Saved and submitted the updated file named <a href="https://github.com/kalim-git/Deloitte-Data-Analytics-Virtual-Internship/blob/main/Task%20II/Task%205%20Equality%20Table%20-%20Updated.xlsx">**`Equality Table Updated.xlsx`**<a/> with the classification applied to all job roles.
